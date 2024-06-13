@@ -1,7 +1,6 @@
 # SwiftRoom Allocator
 
-SwiftRoom Allocator is a hostel room allocation system designed to streamline the process for college students and administrators. With features such as instant room selection, change options, and an easy departure process, SwiftRoom Allocator aims to simplify the hostel experience and promote efficiency. This project is a collaborative effort by Madhav Goyal and Pranav Saluja.
-
+SwiftRoom Allocator is a hostel room allocation system designed to streamline the process for college students and administrators. With features such as instant room selection, change options, and an easy departure process, SwiftRoom Allocator aims to simplify the hostel experience and promote efficiency.
 ## Technologies Used
 
 - **Frontend**:
